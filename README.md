@@ -1,3 +1,4 @@
+# WeatherApp
 This is a small weather app that shows current weather for a city looked up by user (or for current location)
 
 Setting up
